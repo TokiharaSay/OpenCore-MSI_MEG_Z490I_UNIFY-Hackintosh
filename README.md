@@ -6,6 +6,7 @@ EFI for MSI MEG Z490I UNIFY with OpenCore bootloader
 | ---------------- | ---------------------------------- |
 | CPU              | Intel i7 10700K (8C-16T)           |
 | iGPU             | Intel® HD 630 Graphics             |
+| DGPU             | SAPPHIRE  Radeon RX 6600 XT        |
 | Lan              | Realtek PCIe 2.5GbE                |
 | Audio            | Realtek ALC1220/S                  |
 | Ram              | Crucial 32 GB DDR4 3200 Mhz        |
