@@ -27,7 +27,7 @@ Donating to this project is OPTIONAL. But feel free to buy me a coffee if you ap
 
 ## Maintainer / 维护者
 
-**ASUS-ROG-STRIX-B360-I-GAMING** © [TokiharaSay](https://github.com/TokiharaSay), Released under the [GPL-3.0](./LICENSE) License.<br>
-Authored and maintained by TokiharaSaywith help from contributors ([list](https://github.com/TokiharaSay/OpenCore-AUSU-ROG-STRIX-B360-I-GAMING-Hackintosh)).
+**MSI_MEG_Z490I_UNIFY** © [TokiharaSay](https://github.com/TokiharaSay), Released under the [GPL-3.0](./LICENSE) License.<br>
+Authored and maintained by TokiharaSaywith help from contributors ([list](https://github.com/TokiharaSay/OpenCore-MSI_MEG_Z490I_UNIFY-Hackintosh/)).
 
 >[Blog](https://blog.runebalot.cn/) · GitHub [@TokiharaSay](https://github.com/TokiharaSay) · Twitter [@TokiharaSay](https://twitter.com/TokiharaSay) 
