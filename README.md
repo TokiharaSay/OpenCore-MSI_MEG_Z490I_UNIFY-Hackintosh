@@ -22,6 +22,34 @@
 | BootLoader       | OpenCore 0.8.4                     |
 | macOS            | Ventura 13.0 Beta6                 |
 
+## Working & Not Working / 可用与不可用的功能
+
+### Non-Fuctional / 不工作
+| Thunderbolt 3 Hotplug<br>雷电接口热插拔 | ⚠️ | | Thunderbolt Driver 和认证可能不加载；雷电固件可能不识别 |
+
+### Video and Audio / 音频与视频
+
+| Feature | Status | Dependency | Remarks |
+| --- | --- | --- | --- |
+| Full Graphics Accleration (QE/CI)<br>图形硬件加速 | ✅ | `WhateverGreen.kext` | |
+| Audio Playback through 3.5mm<br>通过 3.5mm 接口播放音频 | ✅ | `AppleALC.kext` | |
+| Automatic Headphone Output Switching<br>当插入耳机时自动切换音频输出 | ✅ | `AppleALC.kext` | |
+
+### Power, Charge, Sleep and Hibernation / 电源管理、充电、睡眠、休眠
+
+| Feature | Status | Dependency | Remarks |
+| --- | --- | --- | --- |
+| CPU Power Management (SpeedShift)<br>CPU 电源管理 | ✅ | `SSDT-PLUG` | |
+| S3 Sleep / Hibernation Mode 3<br>S3 睡眠 / Mode 3 休眠 | ✅ | | |
+| Hibernation Mode 25<br>Mode 25 休眠 | ⚠️ | | |
+
+### Input & Output
+
+| Feature | Status | Dependency | Remarks |
+| --- | --- | --- | --- |
+| WiFi | ✅ | `AirportFixup.kext` | Suggest to switch Broadcom based card<br>推荐更换博通无线网卡 |
+| Bluetooth | ✅ | 94360Z4 APPLE firmware | Suggest to switch Broadcom based card<br>推荐更换博通无线网卡 |
+| USB 2.0, USB 3.0, SD Card Reader | ✅ | `USBToolBox UTBMap_Brcm/UTBMap_intel` | |
 
 ## Donation / 捐赠
 
