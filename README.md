@@ -25,7 +25,7 @@
 ## Working & Not Working / 可用与不可用的功能
 
 ### Non-Fuctional / 不工作
-| Thunderbolt 3 Hotplug<br>雷电接口热插拔 | ⚠️ | | Thunderbolt Driver 和认证可能不加载；雷电固件可能不识别 |
+| Thunderbolt 3 Hotplug<br>雷电接口热插拔 | ⚠️ | `SSDT-TB3` | Thunderbolt Driver 和认证可能不加载；雷电固件可能不识别 |
 
 ### Video and Audio / 音频与视频
 
@@ -48,8 +48,8 @@
 | Feature | Status | Dependency | Remarks |
 | --- | --- | --- | --- |
 | WiFi | ✅ | `AirportFixup.kext` | Suggest to switch Broadcom based card<br>推荐更换博通无线网卡 |
-| Bluetooth | ✅ | 94360Z4 APPLE firmware | Suggest to switch Broadcom based card<br>推荐更换博通无线网卡 |
-| USB 2.0, USB 3.0, SD Card Reader | ✅ | `USBToolBox UTBMap_Brcm/UTBMap_intel` | |
+| Bluetooth | ✅ | 94360Z4 APPLE firmware / 白果固件网卡 | Suggest to switch Broadcom based card<br>推荐更换博通无线网卡 |
+| USB 2.0, USB 3.0, SD Card Reader | ✅ | `USBToolBox UTBMap_Brcm/UTBMap_intel` | 根据你的需求使用UTBMap_Brcm/UTBMap_intel|
 
 ## Donation / 捐赠
 
