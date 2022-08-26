@@ -1,10 +1,16 @@
-EFI for MSI MEG Z490I UNIFY with OpenCore bootloader
+<div align="center">
+<img src="https://asset.msi.com/resize/image/global/product/product_3_20200507175236_5eb3da64772d8.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png" width="350px">
+</div>
+
+<h1 align="center">MSI Z490i UNIFY Hackintosh</h1>
+<h3 align="center">微星 Z490i UNIFY 黑苹果 OpenCore 引导配置</h3>
+<br>
 
 ### Computer Spec:
 
 | Component        | Brank                              |
 | ---------------- | ---------------------------------- |
-| CPU              | Intel i7 10900T ES (10C-20T)       |
+| CPU              | Intel i9 10900T ES (10C-20T)       |
 | iGPU             | Intel® HD 630 Graphics             |
 | DGPU             | DELL  Radeon RX 5300               |
 | Lan              | Realtek PCIe 2.5GbE                |
