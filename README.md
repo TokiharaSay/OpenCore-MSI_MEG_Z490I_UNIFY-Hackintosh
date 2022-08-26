@@ -52,7 +52,7 @@
 | --- | --- | --- | --- |
 | WiFi | ✅ | `AirportFixup.kext` | Suggest to switch Broadcom based card<br>推荐更换博通无线网卡 |
 | Bluetooth | ✅ | `94360Z4 APPLE firmware / 白果固件网卡` | Suggest to switch Broadcom based card<br>推荐更换博通无线网卡 |
-| USB 2.0, USB 3.0, SD Card Reader | ✅ | `USBToolBox UTBMap_Brcm/UTBMap_intel` | 根据你的需求使用UTBMap_Brcm/UTBMap_intel|
+| USB 2.0, USB 3.0 | ✅ | `USBToolBox UTBMap_Brcm/UTBMap_intel` | 根据你的需求使用UTBMap_Brcm/UTBMap_intel|
 
 ## Donation / 捐赠
 
