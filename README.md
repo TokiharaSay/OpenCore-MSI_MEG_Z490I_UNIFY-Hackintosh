@@ -4,21 +4,34 @@ EFI for MSI MEG Z490I UNIFY with OpenCore bootloader
 
 | Component        | Brank                              |
 | ---------------- | ---------------------------------- |
-| CPU              | Intel i7 10700K (8C-16T)           |
+| CPU              | Intel i7 10900T ES (10C-20T)       |
 | iGPU             | Intel® HD 630 Graphics             |
-| DGPU             | SAPPHIRE  Radeon RX 6600 XT        |
+| DGPU             | SAPPHIRE  Radeon RX 5300           |
 | Lan              | Realtek PCIe 2.5GbE                |
 | Audio            | Realtek ALC1220/S                  |
-| Ram              | Crucial 32 GB DDR4 3200 Mhz        |
-| Wifi + Bluetooth | Intel® AX201                       |
-| NVMe             | WD SN550 1T*2                      |
+| Ram              | KLEVV 32 GB DDR4 3200 Mhz          |
+| Wifi + Bluetooth | Intel® AX201  BCM94360Z4           |
+| NVMe             | WD SN550 1T*2  INTEL S3520 120G    |
 | SmBios           | iMac 19,1                          |
-| BootLoader       | OpenCore 0.7.6                     |
-| macOS            | Monterey 12.1                      |
+| BootLoader       | OpenCore 0.8.4                     |
+| macOS            | Ventura 13.0 Beta6                 |
 
 
-
-
+### Configuration list
+Case: SSUPD Meshlicious FULL MESH
+Main board: MSI Z490i Unify Shadow Board
+CPU: Intel I9 10900T ES (QBT0)
+Memory: Kofu Thunder 3200mhz Hynix CJR 16G*2
+Graphics card: DELL RX5300 3G
+Hard disk: Western Digital SN550 1T 21 firmware *2 Intel S3510 120G
+Power supply: Corsair Platinum SFX750
+Wireless card: Intel AX201 Broadcom BCM94360Z4 on board
+Heat dissipation: Limin frozen mirror 240 integrated water
+Microphone: Flash HD300T
+Keyboard: Skinhead 87 DIY kit
+Mouse: Logitech G102
+Display: B156ZAN05.14 4K120 EDP to DP
+Display: B156ZAN03.4 4K60 JXG driver board
 
 ## Donation / 捐赠
 
