@@ -25,6 +25,9 @@
 ## Working & Not Working / 可用与不可用的功能
 
 ### Non-Fuctional / 不工作
+
+| Feature | Status | Dependency | Remarks |
+| --- | --- | --- | --- |
 | Thunderbolt 3 Hotplug<br>雷电接口热插拔 | ⚠️ | `SSDT-TB3` | Thunderbolt Driver 和认证可能不加载；雷电固件可能不识别 |
 
 ### Video and Audio / 音频与视频
@@ -40,8 +43,8 @@
 | Feature | Status | Dependency | Remarks |
 | --- | --- | --- | --- |
 | CPU Power Management (SpeedShift)<br>CPU 电源管理 | ✅ | `SSDT-PLUG` | |
-| S3 Sleep / Hibernation Mode 3<br>S3 睡眠 / Mode 3 休眠 | ✅ | | |
-| Hibernation Mode 25<br>Mode 25 休眠 | ⚠️ | | |
+| S3 Sleep / Hibernation Mode 3<br>S3 睡眠 / Mode 3 休眠 | ✅ | 原生支持 | |
+| Hibernation Mode 25<br>Mode 25 休眠 | ⚠️ | | 测试休眠之后无法正常进入macos |
 
 ### Input & Output
 
