@@ -17,22 +17,6 @@ EFI for MSI MEG Z490I UNIFY with OpenCore bootloader
 | macOS            | Ventura 13.0 Beta6                 |
 
 
-### Configuration list
-机箱: SSupd 美味网版
-主板: 微星 Z490i Unify暗影板
-CPU:  英特尔 i9 10900T ES (QBT0)
-内存:  科赋雷霆 3200mhz 海力士CJR 16G*2
-显卡: DELL RX5300 3G
-硬盘: 西数SN550 1T 21固件*2  英特尔S3510 120G
-电源: 海盗船 白金SFX750
-无线网卡:  板载 英特尔AX201 博通BCM94360Z4
-散热: 利民 冰封幻镜240一体水
-麦克风: 闪克HD300T
-键盘: 光头87 DIY套件
-鼠标: 罗技G102
-显示器: B156ZAN05.1 4K120 EDP转DP
-显示器: B156ZAN03.4 4K60 JXG 驱动板
-
 ## Donation / 捐赠
 
 Donating to this project is OPTIONAL. But feel free to buy me a coffee if you appreciate my works.
