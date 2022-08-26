@@ -18,20 +18,20 @@ EFI for MSI MEG Z490I UNIFY with OpenCore bootloader
 
 
 ### Configuration list
-Case: SSUPD Meshlicious FULL MESH
-Main board: MSI Z490i Unify Shadow Board
-CPU: Intel I9 10900T ES (QBT0)
-Memory: Kofu Thunder 3200mhz Hynix CJR 16G*2
-Graphics card: DELL RX5300 3G
-Hard disk: Western Digital SN550 1T 21 firmware *2 Intel S3510 120G
-Power supply: Corsair Platinum SFX750
-Wireless card: Intel AX201 Broadcom BCM94360Z4 on board
-Heat dissipation: Limin frozen mirror 240 integrated water
-Microphone: Flash HD300T
-Keyboard: Skinhead 87 DIY kit
-Mouse: Logitech G102
-Display: B156ZAN05.14 4K120 EDP to DP
-Display: B156ZAN03.4 4K60 JXG driver board
+机箱: SSupd 美味网版
+主板: 微星 Z490i Unify暗影板
+CPU:  英特尔 i9 10900T ES (QBT0)
+内存:  科赋雷霆 3200mhz 海力士CJR 16G*2
+显卡: DELL RX5300 3G
+硬盘: 西数SN550 1T 21固件*2  英特尔S3510 120G
+电源: 海盗船 白金SFX750
+无线网卡:  板载 英特尔AX201 博通BCM94360Z4
+散热: 利民 冰封幻镜240一体水
+麦克风: 闪克HD300T
+键盘: 光头87 DIY套件
+鼠标: 罗技G102
+显示器: B156ZAN05.1 4K120 EDP转DP
+显示器: B156ZAN03.4 4K60 JXG 驱动板
 
 ## Donation / 捐赠
 
