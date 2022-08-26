@@ -23,7 +23,7 @@ Donating to this project is OPTIONAL. But feel free to buy me a coffee if you ap
 
 捐赠本项目 **并不是必需的**。但是如果我的项目对你有所帮助，为什么不考虑一下给我买杯咖啡呢？
 
-<img src="https://pic.skk.moe/file/sukkaw/gh/y9000x-hackintosh-banner.png" width="350px">
+<img src="https://fastly.jsdelivr.net/gh/TokiharaSay/Pic/IMG_2453(20220826-080924).JPG" width="350px">
 
 ## Maintainer / 维护者
 
