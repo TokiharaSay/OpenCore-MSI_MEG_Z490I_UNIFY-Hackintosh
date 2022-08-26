@@ -43,7 +43,7 @@
 | Feature | Status | Dependency | Remarks |
 | --- | --- | --- | --- |
 | CPU Power Management (SpeedShift)<br>CPU 电源管理 | ✅ | `SSDT-PLUG` | |
-| S3 Sleep / Hibernation Mode 3<br>S3 睡眠 / Mode 3 休眠 | ✅ | 原生支持 | |
+| S3 Sleep / Hibernation Mode 3<br>S3 睡眠 / Mode 3 休眠 | ✅ | `原生支持` | |
 | Hibernation Mode 25<br>Mode 25 休眠 | ⚠️ | | 测试休眠之后无法正常进入macos |
 
 ### Input & Output
