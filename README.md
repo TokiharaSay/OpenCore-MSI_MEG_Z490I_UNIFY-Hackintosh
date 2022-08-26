@@ -28,7 +28,7 @@
 
 | Feature | Status | Dependency | Remarks |
 | --- | --- | --- | --- |
-| Thunderbolt 3 Hotplug<br>雷电接口热插拔 | ⚠️ | `IOElectrify.kext` | Thunderbolt Driver 和认证可能不加载；雷电固件可能不识别 |
+| Thunderbolt 3 Hotplug<br>雷电接口热插拔 | ⚠️ |  | Thunderbolt Driver 和认证可能不加载；雷电固件可能不识别 |
 
 ### Video and Audio / 音频与视频
 
